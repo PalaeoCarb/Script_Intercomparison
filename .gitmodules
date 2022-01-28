@@ -4,3 +4,6 @@
 [submodule "Matlab/Code/Dependencies/Geochemistry_Helpers"]
 	path = Matlab/Code/Dependencies/Geochemistry_Helpers
 	url = https://github.com/St-Andrews-Isotope-Geochemistry/Geochemistry_Helpers
+[submodule "Python/Code/Dependencies/cbsyst"]
+	path = Python/Code/Dependencies/cbsyst
+	url = https://github.com/oscarbranson/cbsyst
